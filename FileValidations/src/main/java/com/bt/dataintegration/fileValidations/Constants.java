@@ -7,3 +7,5 @@ public class Constants {
 	public static final String VALID_RECORD = "0";
 	public static final String INVALID_RECORD = "1";
 }
+
+
